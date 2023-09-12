@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints a statement
  *
  * Description: The function prints out with prop
